@@ -87,6 +87,10 @@ The code provided implements the above approach:
 
 The output of the evaluation metrics will provide:
 
+---
+<br><br>
+<img src = "https://github.com/Pedasoft-Consult/Species/blob/main/output/species.png?raw=true">
+
 1. **Confusion Matrix:**  
    - Shows the number of correct and incorrect predictions for each class.  
    - Example:
